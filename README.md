@@ -7,3 +7,5 @@ This course offers an in-depth exploration of the historical development of tech
 Using various frameworks and lenses to analysis technology, look for examples past, present, and future of emerging technology related to each of Maslow’s 5 Needs. 
 
 What is an example of a past emerging tech (greater than  25+ years back) that addresses or improves physiological needs? Then a present example ( in the 21st century) and a future example, something we can consider but isn’t yet possible.
+
+## Extensive use of ChatGPT for first draft of tech ideas
