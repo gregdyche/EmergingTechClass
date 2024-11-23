@@ -1,0 +1,11 @@
+# Ignore all .log files
+*.log
+
+# Ignore a specific file
+secret.txt
+
+# Ignore all files in a directory
+/build/
+
+# Ignore all .env files
+*.env
