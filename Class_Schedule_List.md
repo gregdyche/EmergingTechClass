@@ -1,40 +1,44 @@
 Sample Class Schedule for Sp25
 
 1. 2025-01-14 Tuesday:  
-    - Intro, Pepper, and overview 
+    - Intro  
+    - Pepper  
+    - Class Overview 
 2. 2025-01-16 Thursday:  
-    - Hierarchy of Needs,  
-    - Innovator's Dilemma,  
-    - Tech Adoption Lifecycle,  
+    - Hierarchy of Needs  
+    - Innovator's Dilemma  
+    - Tech Adoption Lifecycle  
     - Gartner's Hype Cycle 
 3. 2025-01-21 Tuesday:  
-    - Physiological - Past 
-    - Refrigeration 
+    - Physiological: Past 
+        - Refrigeration 
 4. 2025-01-23 Thursday:  
-    - Physiological - Present 
-    - Wearables 
+    - Physiological: Present 
+        - Wearables 
 5. 2025-01-28 Tuesday:
-    - Physiological - Future  
-    - Organ Printing 
-6. 2025-01-30 Thursday: Physiological - Future  
-    - Nano Nutrient Delivery 
+    - Physiological: Future  
+        - Organ Printing 
+6. 2025-01-30 Thursday:  
+    - Physiological: Future  
+        - Nano Nutrient Delivery 
 7. 2025-02-04 Tuesday:  
     - AHEAD  
     - Porter's Comp Strategy   
     - Bloom's Taxonomy 
-8. 2025-02-06 Thursday: Safety - Past 
+8. 2025-02-06 Thursday:
+    - Safety: Past 
     - Fire Suppression 
-9. 2025-02-11 Tuesday: Safety - Present 
+9. 2025-02-11 Tuesday: Safety: Present 
     - Cybersecurity 
-10. 2025-02-13 Thursday: Safety - Future 
+10. 2025-02-13 Thursday: Safety: Future 
     - Autonomous Disaster Response Systems 
-11. 2025-02-18 Tuesday: Safety - Future 
+11. 2025-02-18 Tuesday: Safety: Future 
     - Smart Urban Safety Grids 
-12. 2025-02-20 Thursday: Belonging - Past 
+12. 2025-02-20 Thursday: Belonging: Past 
     - Telephone 
-13. 2025-02-25 Tuesday: Belonging - Present 
+13. 2025-02-25 Tuesday: Belonging: Present 
     - Social Media 
-14. 2025-02-27 Thursday: Belonging - Future 
+14. 2025-02-27 Thursday: Belonging: Future 
     - VR Social Spaces 
 15. 2025-03-04 Tuesday:  
     - Review 
