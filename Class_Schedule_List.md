@@ -34,14 +34,18 @@ Sample Class Schedule for Sp25
 10. 2025-02-13 Thursday:  
     - Safety: Future 
         - Autonomous Disaster Response Systems 
-11. 2025-02-18 Tuesday: Safety: Future 
-    - Smart Urban Safety Grids 
-12. 2025-02-20 Thursday: Belonging: Past 
-    - Telephone 
-13. 2025-02-25 Tuesday: Belonging: Present 
-    - Social Media 
-14. 2025-02-27 Thursday: Belonging: Future 
-    - VR Social Spaces 
+11. 2025-02-18 Tuesday:  
+    - Safety: Future 
+        - Smart Urban Safety Grids 
+12. 2025-02-20 Thursday 
+    - Belonging: Past 
+        - Telephone 
+13. 2025-02-25 Tuesday:  
+    - Belonging: Present 
+        - Social Media 
+14. 2025-02-27 Thursday:  
+    - Belonging: Future 
+        - VR Social Spaces 
 15. 2025-03-04 Tuesday:  
     - Review 
 16. 2025-03-06 Thursday:  
@@ -51,7 +55,8 @@ Sample Class Schedule for Sp25
 18. 2025-03-13 Thursday:  
     - Spring Break 
 19. 2025-03-18 Tuesday:  
-    - Belonging - Future  AI Emotional Companions 
+    - Belonging - Future  
+        - AI Emotional Companions 
 20. 2025-03-20 Thursday:  
     - Six Thinking Hats,  
     - Thinking Fast and Slow,  
