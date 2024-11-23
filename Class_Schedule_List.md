@@ -14,13 +14,13 @@ Sample Class Schedule for Sp25
     - Physiological - Present 
     - Wearables 
 5. 2025-01-28 Tuesday:
-    - Physiological - Future 
-    - Orgain Printing 
-6. 2025-01-30 Thursday: Physiological - Future 
+    - Physiological - Future  
+    - Organ Printing 
+6. 2025-01-30 Thursday: Physiological - Future  
     - Nano Nutrient Delivery 
 7. 2025-02-04 Tuesday:  
-    - AHEAD,  
-    - Porter's Comp Strategy,  
+    - AHEAD  
+    - Porter's Comp Strategy   
     - Bloom's Taxonomy 
 8. 2025-02-06 Thursday: Safety - Past 
     - Fire Suppression 
