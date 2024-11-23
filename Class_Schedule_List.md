@@ -27,11 +27,13 @@ Sample Class Schedule for Sp25
     - Bloom's Taxonomy 
 8. 2025-02-06 Thursday:
     - Safety: Past 
-    - Fire Suppression 
-9. 2025-02-11 Tuesday: Safety: Present 
-    - Cybersecurity 
-10. 2025-02-13 Thursday: Safety: Future 
-    - Autonomous Disaster Response Systems 
+        - Fire Suppression 
+9. 2025-02-11 Tuesday:  
+    - Safety: Present 
+        - Cybersecurity 
+10. 2025-02-13 Thursday:  
+    - Safety: Future 
+        - Autonomous Disaster Response Systems 
 11. 2025-02-18 Tuesday: Safety: Future 
     - Smart Urban Safety Grids 
 12. 2025-02-20 Thursday: Belonging: Past 
