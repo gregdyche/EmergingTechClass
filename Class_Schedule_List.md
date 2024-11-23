@@ -7,11 +7,14 @@ Sample Class Schedule for Sp25
   Innovator's Dilemma,  
   Tech Adoption Lifecycle,  
   Gartner's Hype Cycle 
-3. 2025-01-21 Tuesday: Physiological - Past 
+3. 2025-01-21 Tuesday:  
+  Physiological - Past 
   Refrigeration 
-4. 2025-01-23 Thursday: Physiological - Present 
+4. 2025-01-23 Thursday:  
+  Physiological - Present 
   Wearables 
-5. 2025-01-28 Tuesday: Physiological - Future 
+5. 2025-01-28 Tuesday:
+  Physiological - Future 
   Orgain Printing 
 6. 2025-01-30 Thursday: Physiological - Future 
   Nano Nutrient Delivery 
