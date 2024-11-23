@@ -63,26 +63,34 @@ Sample Class Schedule for Sp25
     - Critical Thinking Model 
 21. 2025-03-25 Tuesday:  
     - Hierarchy of Needs: Esteem 
-22. 2025-03-27 Thursday: Esteem - Past 
-    - Printing Press 
-23. 2025-04-01 Tuesday: Esteem - Present 
-    - Online Learning 
-24. 2025-04-03 Thursday: Esteem - Future 
-    - Personalized AI Coaches 
-25. 2025-04-08 Tuesday: Esteem - Future  
-    - BCI: Brain Computer Interface for Skill Augmentation 
+22. 2025-03-27 Thursday:  
+    - Esteem: Past 
+        - Printing Press 
+23. 2025-04-01 Tuesday:  
+    - Esteem: Present 
+        - Online Learning 
+24. 2025-04-03 Thursday:  
+    - Esteem: Future 
+        - Personalized AI Coaches 
+25. 2025-04-08 Tuesday:  
+    - Esteem: Future  
+        - BCI: Brain Computer Interface for Skill Augmentation 
 26. 2025-04-10 Thursday:  
     - Present Draft Idea, Class Feedback 
 27. 2025-04-15 Tuesday:   
     - Hierarchy of Needs: Self-Actualization 
-28. 2025-04-17 Thursday: Actualization - Past 
-    - PCs 
-29. 2025-04-22 Tuesday: Actualization - Present 
-    - Open Creative Platforms 
-30. 2025-04-24 Thursday: Actualization - Future 
-    - AI-Driven Self-Reflection Companion 
-31. 2025-04-29 Tuesday: Actualization - Future 
-    - AI Information Shield - Personal Cognitive Firewall 
+28. 2025-04-17 Thursday:  
+    - Actualization: Past 
+        - PCs 
+29. 2025-04-22 Tuesday:  
+    - Actualization: Present 
+        - Open Creative Platforms 
+30. 2025-04-24 Thursday:  
+    - Actualization: Future 
+        - AI-Driven Self-Reflection Companion 
+31. 2025-04-29 Tuesday:  
+    - Actualization - Future 
+        - AI Information Shield - Personal Cognitive Firewall 
 32. 2025-05-01 Thursday:  
     - Review 
 33. 2025-05-06 Tuesday:  
