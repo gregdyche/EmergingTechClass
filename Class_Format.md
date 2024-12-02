@@ -2,10 +2,11 @@
 
 ### Class Format: Analyzing Emerging Technologies**
 
-#### **1. What’s the Emerging Technology in Question?**  
+#### 1. What’s the Emerging Technology in Question?**  
 
 - **Activity**: Briefly introduce the new technology. Use videos, images, or a short reading to spark curiosity.  
 - **Prompt for Students**:  
+  - PACT: People, Applicaitons, Concepts, Terms
   - Describe the technology. What is it, and how does it work?  
   - What’s exciting or innovative about this technology?  
 - **Deliverable**: A concise summary of the new tech’s purpose and potential.
